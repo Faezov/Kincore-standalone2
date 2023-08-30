@@ -1,7 +1,7 @@
-# Kincore-standalone
+# Kincore-standalone2
 # Use the following command to create a virtual enviroment and install the necessary packages.
 
-$git clone https://github.com/vivekmodi/Kincore-standalone
+$git clone https://github.com/Faezov/Kincore-standalone2
 
 $cd Kincore-standalone
 
