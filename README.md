@@ -3,7 +3,7 @@
 
 $git clone https://github.com/Faezov/Kincore-standalone2
 
-$cd Kincore-standalone
+$cd Kincore-standalone2
 
 $conda create --name 'kincore-standalone' python=3.8 pandas numpy biopython hmmer --channel conda-forge --channel bioconda
 
